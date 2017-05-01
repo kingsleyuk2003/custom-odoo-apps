@@ -9,7 +9,7 @@
     'version': '0.1',
     'category': 'Tools',
     'description': """
-Kincotech Customization
+Conolidate HR menus into a single HR module.
 =======================================================================================
 """,
     'author': 'Kingsley Okonkwo',

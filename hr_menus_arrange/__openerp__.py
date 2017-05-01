@@ -10,7 +10,7 @@
     'category': 'Tools',
     'description': """
 Consolidate HR menus into a single HR module.
-Nee Help:
+Need Help:
 Email: kingsley@kinsolve.com or call: +2348030412562
 =======================================================================================
 """,

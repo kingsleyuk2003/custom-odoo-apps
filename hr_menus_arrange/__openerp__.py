@@ -12,7 +12,7 @@
 Kincotech Customization
 =======================================================================================
 """,
-    'author': 'Kingsley Okonkwo (kingsley@kinsolve.com, +2348030412562)',
+    'author': 'Kingsley Okonkwo',
     'website': 'http://kinsolve.com',
     'depends': ['base','hr','hr_payroll','hr_expense','hr_attendance','hr_holidays'],
     'data': [

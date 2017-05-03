@@ -12,8 +12,7 @@
     "version": "9.0.1.0.0",
     "author": "Eficent, "
               "Serpent Consulting Services Pvt. Ltd.,"
-                "Kinsolve Solutions - Kingsley Okonkwo - kingsley@kinsolve.com"
-                "Kinsolve Solutions, "
+                "Kinsolve Solutions,"
               "Odoo Community Association (OCA)",
     "website": "http://www.kinsolve.com",
     "category": "Payment",

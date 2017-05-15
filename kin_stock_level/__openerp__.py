@@ -14,7 +14,7 @@ Check the Inventory Module Reporting for the Menu. \n
 Incase of any issue: Contact Kingsley at kingsley@kinsolve.com or Call: +2348030412562 \n
 Maintainer: \n
 Kingsley Okonkwo (CEO Kinsolve Solutions) \n
-Address: Suite 212 
+Address: Suite 212, ACN Towers, off CIPM ROAD Ikeja Lagos, Nigeria.
 """,
     'author': 'Kingsley Okonkwo',
     'website': 'http://kinsolve.com',

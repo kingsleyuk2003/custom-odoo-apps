@@ -13,9 +13,10 @@ Export Current Stock Level Inventory (Quants) reports to Excel. \n
 Check the Inventory Module Reporting for the Menu. \n
 Incase of any issue: Contact Kingsley at kingsley@kinsolve.com or Call: +2348030412562 \n
 Maintainer: \n
-Kingsley Okonkwo (CEO Kinsolve Solutions)
+Kingsley Okonkwo (CEO Kinsolve Solutions) \n
+Address: Suite 212 
 """,
-    'author': 'Kingsley Okonkwo (kingsley@kinsolve.com, +2348030412562)',
+    'author': 'Kingsley Okonkwo',
     'website': 'http://kinsolve.com',
     'depends': ['base','stock','report_xlsx'],
     'data': [

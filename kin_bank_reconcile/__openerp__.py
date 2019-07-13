@@ -7,6 +7,8 @@
 {
     'name': 'Manual Bank Reconciliation',
     'version': '0.1',
+    'website': 'kinsolve.com',
+    'license': 'LGPL-3',
     'category': 'Accounting',
     'description': """
 Manual Bank Reconciliation 
